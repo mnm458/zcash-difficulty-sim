@@ -1,0 +1,10 @@
+[package]
+name = "zcash-difficulty-sim"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8"
+plotters = "0.3"
+plotters-bitmap = "0.3"
+base64 = "0.22"
